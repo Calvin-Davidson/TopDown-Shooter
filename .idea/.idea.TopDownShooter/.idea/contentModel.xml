@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\calvi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\calvi\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TopDownShooter.-1672242501.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Projects\TopDownShooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Particles" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PackageManagerAssembly" t="Include">
+              <e p="PackageImportList.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Shared" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DecalDestroyer.cs" t="Include" />
+              <e p="ExtinguishableFire.cs" t="Include" />
+              <e p="GunAim.cs" t="Include" />
+              <e p="GunShoot.cs" t="Include" />
+              <e p="ParticleCollision.cs" t="Include" />
+              <e p="ParticleExamples.cs" t="Include" />
+              <e p="ParticleMenu.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="SurfaceShader_VC.shader" t="Include" />
+            </e>
+          </e>
+          <e p="TutorialInfo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ReadmeEditor.cs" t="Include" />
+              </e>
+              <e p="Readme.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scrips" t="Include">
+          <e p="Enemys" t="Include">
+            <e p="EnemyManager.cs" t="Include" />
+            <e p="TargetPlayer.cs" t="Include" />
+          </e>
+          <e p="EnemySpawner.cs" t="Include" />
+          <e p="HealtSystem.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="movement.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="PlayerManager.cs" t="Include" />
+            <e p="PlayerRotation.cs" t="Include" />
+            <e p="Shoot.cs" t="Include" />
+            <e p="ThrowGranate.cs" t="Include" />
+          </e>
+          <e p="UIrenderer" t="Include">
+            <e p="GrandeThrowRenderer.cs" t="Include" />
+            <e p="HealthRenderer.cs" t="Include" />
+          </e>
+          <e p="Wapons" t="Include">
+            <e p="BulletCollision.cs" t="Include" />
+            <e p="GranadeExplode.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="TopDownShooter.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
